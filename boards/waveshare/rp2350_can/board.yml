@@ -1,0 +1,6 @@
+board:
+  name: rp2350_can
+  full_name: RP2350-CAN
+  vendor: waveshare
+  socs:
+  - name: rp2350a
