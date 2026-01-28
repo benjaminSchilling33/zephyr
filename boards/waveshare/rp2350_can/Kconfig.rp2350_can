@@ -1,4 +1,5 @@
 # Copyright (c) 2025 Stephano Cetola
+# Copyright (c) 2026 Benjamin Schilling
 # SPDX-License-Identifier: Apache-2.0
 
 config BOARD_RP2350_CAN

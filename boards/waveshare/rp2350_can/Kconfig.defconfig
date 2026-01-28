@@ -1,9 +1,10 @@
 # Copyright (c) 2025 Stephano Cetola
+# Copyright (c) 2026 Benjamin Schilling
 # SPDX-License-Identifier: Apache-2.0
 
-if BOARD_RP2350_ZERO
+if BOARD_RP2350_CAN
 
 config USB_SELF_POWERED
 	default n
 
-endif # BOARD_RP2350_ZERO
+endif # BOARD_RP2350_CAN

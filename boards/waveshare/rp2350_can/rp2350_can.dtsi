@@ -1,5 +1,6 @@
 /*
  * Copyright (c) 2025 Stephano Cetola
+ * Copyright (c) 2026 Benjamin Schilling
  *
  * SPDX-License-Identifier: Apache-2.0
  */
@@ -132,12 +133,6 @@
 
 &pio1 {
 	status = "okay";
-};
-
-&pwm {
-	pinctrl-0 = <&pwm_ch4b_default>;
-	pinctrl-names = "default";
-	divider-int-0 = <255>;
 };
 
 &timer0 {
